@@ -1,0 +1,12 @@
+如果安裝套件無法找到
+則必須增加環境變數到bashrc
+ex
+本機是放在
+/home/markven/.nvm/v0.10.17/lib/node_modules/
+故增加
+export NODE_PATH=/home/markven/.nvm/v0.10.17/lib/node_modules/
+
+變可以使用
+
+常發生問題套件
+underscore
